@@ -55,7 +55,7 @@ globs = ["globset"]
 
 # TODO: temporarily ignored
 [workspace]
-members = ["examples/sftp"]
+members = ["examples/cloud-mirror", "examples/sftp"]
 
 [[test]]
 harness = false
